@@ -47,8 +47,8 @@
     justify-content: space-between;
     padding-top: 1px;
     padding-bottom: 10px;
-    padding-left: 100px;
-    padding-right: 100px;
+    margin-left: 10%;
+    margin-right: 10%;
 }
 
 .header2 > div{
@@ -102,8 +102,8 @@
 }
 
 .header5{
-    padding-left: 100px;
-    padding-right: 100px;
+    margin-left: 10%;
+    margin-right: 10%;
 }
 
 .text1{
@@ -111,8 +111,8 @@
     font-size: x-large;
     font-weight: bold;
     position: absolute;
-    padding-top: 220px;
-    padding-left: 175px;
+    margin-top: 10%;
+    margin-left: 7%;
 }
 
 .text1-1{
@@ -120,8 +120,8 @@
     font-size: x-large;
     font-weight: bold;
     position: absolute;
-    padding-top: 220px;
-    padding-left: 150px;
+    margin-top: 10%;
+    margin-left: 6%;
 }
 
 .text2{
@@ -129,6 +129,15 @@
     font-size: x-large;
     font-weight: bold;
     position: absolute;
-    padding-top: 330px;
-    padding-left: 220px;
+    margin-top: 15%;
+    margin-left: 9%;
+}
+
+.text2-2{
+    color: white;
+    font-size: x-large;
+    font-weight: bold;
+    position: absolute;
+    margin-top: 15%;
+    margin-left: 10%;
 }
